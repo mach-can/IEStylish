@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEStylish", "InternetExplorerExtension\IEStylish.csproj", "{A41AA005-D921-43C7-9C68-0025CB57B54A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IEStylishSetup", "Setup1\Setup1.vdproj", "{6303D8BC-AD64-4297-8B9E-C5282856AAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41AA005-D921-43C7-9C68-0025CB57B54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41AA005-D921-43C7-9C68-0025CB57B54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41AA005-D921-43C7-9C68-0025CB57B54A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A41AA005-D921-43C7-9C68-0025CB57B54A}.Debug|x86.Build.0 = Debug|Any CPU
+		{A41AA005-D921-43C7-9C68-0025CB57B54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41AA005-D921-43C7-9C68-0025CB57B54A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41AA005-D921-43C7-9C68-0025CB57B54A}.Release|x86.ActiveCfg = Release|Any CPU
+		{A41AA005-D921-43C7-9C68-0025CB57B54A}.Release|x86.Build.0 = Release|Any CPU
+		{6303D8BC-AD64-4297-8B9E-C5282856AAFC}.Debug|Any CPU.ActiveCfg = Debug
+		{6303D8BC-AD64-4297-8B9E-C5282856AAFC}.Debug|x86.ActiveCfg = Debug
+		{6303D8BC-AD64-4297-8B9E-C5282856AAFC}.Release|Any CPU.ActiveCfg = Release
+		{6303D8BC-AD64-4297-8B9E-C5282856AAFC}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
